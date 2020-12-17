@@ -1,18 +1,22 @@
 {
   "name": "html-webpack-remove-plugin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
-  "keywords": [
-    "webpack",
-    "plugin",
-    "html-webpack-plugin",
-    "remove"
-  ],
   "author": "emsbn",
   "license": "MIT",
   "devDependencies": {
     "html-webpack-plugin": "^4.5.0",
     "webpack": "^4.44.2"
-  }
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "httml",
+    "html-webpack-plugin",
+    "remove"
+  ],
+  "bugs": "https://github.com/emsbn/html-webpack-remove-plugin/issues",
+  "homepage": "https://github.com/emsbn/html-webpack-remove-plugin",
+  "repository": "https://github.com/emsbn/html-webpack-remove-plugin.git"
 }
